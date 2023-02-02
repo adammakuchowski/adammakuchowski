@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Junior Node.js Backend Developer**
 
-- 🌱 I’m currently learning **React.js and Node.js**
+- 🌱 I’m currently learning **Node.js, MongoDB and React.js**
 
 - 👯 I'm looking to collaborate with **people which love coding** 
 
