@@ -1,9 +1,9 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Adam Makuchowski</h1>
-<h3 align="center">Junior Full-stack Developer from Poland</h3>
+<h3 align="center">Junior Node.js Backend Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://seeklogo.com/images/J/javascript-logo-150FDF2715-seeklogo.com.png">
 
-- 🔭 I’m currently working as **junior Full-stack Developer**
+- 🔭 I’m currently working as **Junior Node.js Backend Developer**
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
@@ -24,7 +24,7 @@
 - 🔥 My hobbies are: **Web Dev, Game Dev, Premier League and F1**
 
 <h3 align="left">About me:</h3>
-Junior Full-stack Developer, with first steps with React on frontend and Node on backend. Programming is my passion. I love talk about the code, solve implementation problems and learning new technologies. As a hobby I create simple games in Unity engine using C#.
+Junior Node.js Backend Developer, I mainly work in Node and MongoDB on backend, but sometimes also in React on frontend. Programming is my passion. I love talk about the code, solve implementation problems and learning new technologies.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
