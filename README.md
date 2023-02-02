@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **makuchowski.adam@gmail.com**
 
-- 📄 My experiences: **1+ year as a junior Full-stack Developer**
+- 📄 My experiences: **1+ year as a junior Node.js Backend Developer**
 
 - 🎮 In my free time: **I learn Game Dev using C# on Unity Engine**
 
