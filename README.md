@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **developing programming skills**
 
-- 💬 Ask me about **JS, TS, Web Development, Game Development**
+- 💬 Ask me about **JS, TS, Web Development, MongoDB**
 
 - 📫 How to reach me **makuchowski.adam@gmail.com**
 
