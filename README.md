@@ -17,11 +17,9 @@
 
 - 📄 My experiences: **1+ year as a junior Node.js Backend Developer**
 
-- 🎮 In my free time: **I learn Game Dev using C# on Unity Engine**
-
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
-- 🔥 My hobbies are: **Web Dev, Game Dev, Premier League and F1**
+- 🔥 My hobbies are: **Web Dev, Premier League and F1**
 
 <h3 align="left">About me:</h3>
 Junior Node.js Backend Developer, I mainly work in Node and MongoDB on backend, but sometimes also in React on frontend. Programming is my passion. I love talk about the code, solve implementation problems and learning new technologies.
