@@ -1,5 +1,5 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
-<h1 align="center">Hi 👋, I'm Adam Makuchowski</h1>
+<h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Junior Node.js Backend Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://seeklogo.com/images/J/javascript-logo-150FDF2715-seeklogo.com.png">
 
