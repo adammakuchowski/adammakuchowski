@@ -21,7 +21,7 @@
 
 - 🔥 My hobbies are: **Web Dev, Premier League and F1**
 
-- :octocat: Business github account [Adam Makuchowski at Pronos](https://github.com/AdamMaku)
+- :octocat:: Business github account [Adam Makuchowski at Pronos](https://github.com/AdamMaku)
 
 <h3 align="left">About me:</h3>
 Junior Node.js Backend Developer, I mainly work in Node and MongoDB on backend, but sometimes also in React on frontend. Programming is my passion. I love talk about the code, solve implementation problems and learning new technologies.
