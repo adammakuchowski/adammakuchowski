@@ -3,7 +3,7 @@
 <h3 align="center">Junior Node.js Backend Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://seeklogo.com/images/J/javascript-logo-150FDF2715-seeklogo.com.png">
 
-- 🔭 I’m currently working as **Junior Node.js Backend Developer**
+- 🔭 I’m currently working as **Junior Node.js Backend Developer at Pronos**
 
 - 🌱 I’m currently learning **Node.js, MongoDB and React.js**
 
@@ -21,7 +21,7 @@
 
 - 🔥 My hobbies are: **Web Dev, Premier League and F1**
 
-- :octocat: Github account at Pronos [Adam Makuchowski](https://github.com/AdamMaku)
+- :octocat: Business github account [Adam Makuchowski at Pronos](https://github.com/AdamMaku)
 
 <h3 align="left">About me:</h3>
 Junior Node.js Backend Developer, I mainly work in Node and MongoDB on backend, but sometimes also in React on frontend. Programming is my passion. I love talk about the code, solve implementation problems and learning new technologies.
