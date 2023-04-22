@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
-- 🔥 My hobbies is: **Creating games in Unity 3D**
+- 🔥 My hobby is: **Creating games in Unity 3D**
 
 - :octocat: Business github account: [**Adam Makuchowski at Pronos**](https://github.com/AdamMaku)
 
