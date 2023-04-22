@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **developing programming skills**
 
-- 💬 Ask me about **JS, TS, Web Development, MongoDB**
+- 💬 Ask me about **JS, TS, Web DEV, Game DEV, MongoDB**
 
 - 📫 How to reach me **makuchowski.adam@gmail.com**
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
-- 🔥 My hobbies are: **Web Dev, Premier League and F1**
+- 🔥 My hobbies is: **Creating games in Unity 3D**
 
 - :octocat: Business github account: [**Adam Makuchowski at Pronos**](https://github.com/AdamMaku)
 
