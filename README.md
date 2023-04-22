@@ -24,7 +24,8 @@
 - :octocat: Business github account: [**Adam Makuchowski at Pronos**](https://github.com/AdamMaku)
 
 <h3 align="left">About me:</h3>
-My name is Adam and I work as a Junior JavaScript developer. I am a passionate programmer with a focus on developing web applications on both the frontend and backend. Currently, I work with technologies such as React, Node, and MongoDB.
+My name is Adam and I work as a Junior JavaScript developer. I am a passionate programmer with a focus on developing web applications on both the frontend and backend. Currently, I work with technologies such as React, Node, and MongoDB. <br />
+<br />
 <br />
 As a JavaScript developer, I strive to constantly improve my skills and knowledge through practical projects and self-learning. My goal is to create innovative and functional web applications that meet the needs of users and contribute to business development.
 
