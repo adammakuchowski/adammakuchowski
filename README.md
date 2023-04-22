@@ -1,9 +1,9 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">Junior Node.js Backend Developer</h3>
+<h3 align="center">Junior JavaScript developer</h3>
 <img align="right" alt="Coding" width="300" src="https://seeklogo.com/images/J/javascript-logo-150FDF2715-seeklogo.com.png">
 
-- 🔭 I’m currently working as **Junior Node.js Backend Developer at Pronos**
+- 🔭 I’m currently working as **Junior JavaScript developer at Pronos**
 
 - 🌱 I’m currently learning **Node.js, MongoDB and React.js**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **makuchowski.adam@gmail.com**
 
-- 📄 My experiences: **1+ year as a junior Node.js Backend Developer**
+- 📄 My experiences: **1+ year as a Junior JavaScript developer**
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
