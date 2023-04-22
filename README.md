@@ -26,13 +26,19 @@
 <h3 align="left">About me:</h3>
 My name is Adam and I work as a Junior JavaScript developer. I am a passionate programmer with a focus on developing web applications on both the frontend and backend. Currently, I work with technologies such as React, Node, and MongoDB.
 <br />
+<br />
 As a JavaScript developer, I strive to constantly improve my skills and knowledge through practical projects and self-learning. My goal is to create innovative and functional web applications that meet the needs of users and contribute to business development.
+<br />
 <br />
 I am motivated to continuously develop as a programmer, which is why I keep up-to-date with the latest news and trends in programming.
 <br />
+<br />
 In my free time, I pursue my passion for creating computer games using the Unity 3D engine and C#. I approach every project as a challenge, which allows me to develop my programming and creative skills. The greatest satisfaction for me is creating games that provide players with an engaging and enjoyable gameplay experience.
 <br />
+<br />
 In the future, I want to become a leader in my field and help others develop their skills. I am ready to take on new challenges and create projects that will benefit users and the companies I work for.
+<br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
