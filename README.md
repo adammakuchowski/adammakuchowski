@@ -37,8 +37,6 @@ In my free time, I pursue my passion for creating computer games using the Unity
 <br />
 <br />
 In the future, I want to become a leader in my field and help others develop their skills. I am ready to take on new challenges and create projects that will benefit users and the companies I work for.
-<br />
-<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
