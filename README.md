@@ -1,6 +1,6 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">Junior JavaScript Developer</h3>
+<h3 align="center">Junior Fullstack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://seeklogo.com/images/J/javascript-logo-150FDF2715-seeklogo.com.png">
 
 - 🔭 I’m currently working as **Junior JavaScript Developer at Pronos**
@@ -24,10 +24,10 @@
 - :octocat: Business github account: [**Adam Makuchowski at Pronos**](https://github.com/AdamMaku)
 
 <h3 align="left">About me:</h3>
-I work as a Junior JavaScript developer. I am a passionate programmer with a focus on developing web applications on both the frontend and backend. Currently, I work with technologies such as React, Node, and MongoDB.
+I work as a Junior Fullstack developer. I am a passionate programmer with a focus on developing web applications on both the frontend and backend. Currently, I work with technologies such as React, Node, and MongoDB.
 <br />
 <br />
-As a JavaScript developer, I strive to constantly improve my skills and knowledge through practical projects and self-learning. My goal is to create innovative and functional web applications that meet the needs of users and contribute to business development.
+As a Fullstack developer, I strive to constantly improve my skills and knowledge through practical projects and self-learning. My goal is to create innovative and functional web applications that meet the needs of users and contribute to business development.
 <br />
 <br />
 I am motivated to continuously develop as a programmer, which is why I keep up-to-date with the latest news and trends in programming.
