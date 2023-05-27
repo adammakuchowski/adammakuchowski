@@ -3,7 +3,7 @@
 <h3 align="center">Junior Fullstack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://seeklogo.com/images/J/javascript-logo-150FDF2715-seeklogo.com.png">
 
-- 🔭 I’m currently working as **Junior JavaScript Developer at Pronos**
+- 🔭 I’m currently working as **Junior Fullstack Developer at Pronos**
 
 - 🌱 I’m currently learning **Node.js, MongoDB and React.js**
 
