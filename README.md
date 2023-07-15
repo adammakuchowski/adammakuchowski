@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **JS, TS, Web Dev, Game Dev, MongoDB**
 
-- 📫 How to reach me **makuchowski.adam@gmail.com**
-
 - 📄 My experiences: **1.5+ year as a Junior Fullstack JS Developer**
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
