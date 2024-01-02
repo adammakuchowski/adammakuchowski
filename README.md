@@ -1,9 +1,9 @@
 ![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">Backend JS Developer</h3>
+<h3 align="center">Fullstack JS Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://seeklogo.com/images/J/javascript-logo-150FDF2715-seeklogo.com.png">
 
-- 🔭 I’m currently working as **Backend JS Developer at Pronos**
+- 🔭 I’m currently working as **Fullstack JS Developer at Pronos**
 
 - 🌱 I’m currently learning **Node.js, MongoDB and React.js**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JS, TS, Web Dev, Game Dev, MongoDB**
 
-- 📄 My experiences: **1.5+ year as a Backend JS Developer**
+- 📄 My experiences: **1.5+ year as a Fullstack JS Developer**
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
@@ -22,7 +22,7 @@
 - :octocat: Business github account: [**Adam Makuchowski at Pronos**](https://github.com/AdamMaku)
 
 <h3 align="left">About me:</h3>
-I work as a Backend JavaScript Developer. I am a passionate programmer with a focus on web application development. Although my primary focus is on the backend, I create applications for both the frontend and backend. Currently, I work with technologies such as React, Node.js, and MongoDB.
+I work as a Fullstack JavaScript Developer. I am a passionate programmer with a focus on web application development. Although my primary focus is on the backend, I create applications for both the frontend and backend. Currently, I work with technologies such as React, Node.js, and MongoDB.
 <br />
 <br />
 As a Developer, I strive to constantly improve my skills and knowledge through practical projects and self-learning. My goal is to create innovative and functional web applications that meet the needs of users and contribute to business development.
