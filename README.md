@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **JS, TS, Web Dev, Game Dev, MongoDB**
 
-- 📄 My experiences: **1.5+ year as a Fullstack JS Developer**
+- 📄 My experiences: **2+ year as a Fullstack JS Developer**
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
