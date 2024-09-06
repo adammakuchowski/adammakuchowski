@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack JS/TS Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 
-- 🔭 I’m currently working as **Full Stack JS/TS Developer at Pronos**
+- 🔭 I’m currently working as **Full Stack JS/TS Developer at CCC Tech**
 
 - 🌱 I’m currently learning **Node, MongoDB and React**
 
@@ -18,8 +18,6 @@
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
 - 🔥 My hobby is: **Creating games in Unity 3D**
-
-- :octocat: Business github account: [**Adam Makuchowski at Pronos**](https://github.com/AdamMaku)
 
 <h3 align="left">About me:</h3>
 I work as a Full Stack JavaScript/TypeScript Developer. I am a passionate programmer with a focus on web application development. Although my primary focus is on the backend, I create applications for both the frontend and backend. Currently, I work with technologies such as React, Node.js, and MongoDB.
