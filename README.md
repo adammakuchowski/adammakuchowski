@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack JS/TS Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 
-- 🔭 I’m currently working as **Full Stack JS/TS Developer at CCC Tech**
+- 🔭 I’m currently working as **Full Stack Developer at CCC Tech**
 
 - 🌱 I’m currently learning **Node, MongoDB and React**
 
