@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as **Full Stack Developer at CCC Tech**
 
-- 🌱 I’m currently learning **Node, MongoDB and React**
+- 🌱 My tech stack **React, Node and MongoDB**
 
 - 👯 I'm looking to collaborate with **people which love coding** 
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
-- 🔥 My hobby is: **Creating games in Unity 3D**
+- 🔥 My hobby is: **Creating a mobile app in React Native**
 
 <h3 align="left">About me:</h3>
 I work as a Full Stack Developer. I am a passionate programmer with a focus on web application development. Although my primary focus is on the backend, I create applications for both the frontend and backend. Currently, I work with technologies such as React, Node.js, and MongoDB.
@@ -29,7 +29,10 @@ As a Developer, I strive to constantly improve my skills and knowledge through p
 I am motivated to continuously develop as a programmer, which is why I keep up-to-date with the latest news and trends in programming.
 <br />
 <br />
-In my free time, I pursue my passion for creating computer games using the Unity 3D engine and C#. I approach every project as a challenge, which allows me to develop my programming and creative skills. The greatest satisfaction for me is creating games that provide players with an engaging and enjoyable gameplay experience.
+<!-- - 🌱 I’m currently learning **Node, MongoDB and React** -->
+<!-- - 🔥 My hobby is: **Creating games in Unity 3D** -->
+<!-- In my free time, I pursue my passion for creating computer games using the Unity 3D engine and C#. I approach every project as a challenge, which allows me to develop my programming and creative skills. The greatest satisfaction for me is creating games that provide players with an engaging and enjoyable gameplay experience. -->
+In my free time, I focus on learning new concepts in programming, system design architecture, project structures, and best practices for writing clean, efficient code. Additionally, I work on private side projects in web development with React and Node, as well as mobile development with React Native, allowing me to apply and refine these skills in practical scenarios.
 <br />
 <br />
 In the future, I want to become a leader in my field and help others develop their skills. I am ready to take on new challenges and create projects that will benefit users and the companies I work for.
