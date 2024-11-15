@@ -1,4 +1,4 @@
-![MasterHead](https://leo-xee.github.io/46315e3e96837a2b48949e839c7dc27b/thumbNail.gif)
+<!-- ![MasterHead](https://leo-xee.github.io/46315e3e96837a2b48949e839c7dc27b/thumbNail.gif) -->
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Full Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
