@@ -1,9 +1,9 @@
 <!-- ![MasterHead](https://leo-xee.github.io/46315e3e96837a2b48949e839c7dc27b/thumbNail.gif) -->
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
 
-- 🔭 I’m currently working as **Full Stack Developer at CCC Tech**
+- 🔭 I’m currently working as **Full-Stack Developer at CCC Tech**
 
 - 🌱 My tech stack **React, React Native, Node and MongoDB**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web Dev, Game Dev**
 
-- 📄 My experiences: **3+ year as a Full Stack Developer**
+- 📄 My experiences: **3+ year as a Full-Stack Developer**
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
@@ -22,7 +22,7 @@
 - 🔥 My hobby is: **Creating video games**
 
 <h3 align="left">About me:</h3>
-I work as a Full Stack Developer. I am a passionate programmer with a focus on web application development. Although my primary focus is on the backend, I create applications for both the frontend and backend. Currently, I work with technologies such as React, Node.js, and MongoDB.
+I work as a Full-Stack Developer. I am a passionate programmer with a focus on web application development. Although my primary focus is on the backend, I create applications for both the frontend and backend. Currently, I work with technologies such as React, Node.js, and MongoDB.
 <br />
 <br />
 As a Developer, I strive to constantly improve my skills and knowledge through practical projects and self-learning. My goal is to create innovative and functional web applications that meet the needs of users and contribute to business development.
