@@ -1,11 +1,11 @@
 <!-- ![MasterHead](https://leo-xee.github.io/46315e3e96837a2b48949e839c7dc27b/thumbNail.gif) -->
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Full-Stack Developer</h3>
-<img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
+<!-- <img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> -->
 
 - 🔭 I’m currently working as **Full-Stack Developer at CCC Tech**
 
-- 🌱 My tech stack **React, React Native, Node and MongoDB**
+<!-- - 🌱 My tech stack **React, React Native, Node and MongoDB** -->
 
 - 👯 I'm looking to collaborate with **people which love coding** 
 
@@ -22,7 +22,8 @@
 - 🔥 My hobby is: **Creating video games**
 
 <h3 align="left">About me:</h3>
-I work as a Full-Stack Developer. I am a passionate programmer with a focus on web application development. Although my primary focus is on the backend, I create applications for both the frontend and backend. Currently, I work with technologies such as React, Node.js, and MongoDB.
+<!-- I work as a Full-Stack Developer. I am a passionate programmer with a focus on web application development. Although my primary focus is on the backend, I create applications for both the frontend and backend. Currently, I work with technologies such as React, Node.js, and MongoDB. -->
+I work as a Full-Stack Developer. I am passionate about programming, primarily focused on creating high-quality software. I believe that understanding the principles of writing flexible, readable, and functional code is crucial, regardless of the technology or programming language used. I treat them as tools at a lower level, while the process of creating valuable software operates at a higher level. Implementation is an important step for me, but the ultimate goal is always to deliver solutions that meet users' needs and are well-designed.
 <br />
 <br />
 As a Developer, I strive to constantly improve my skills and knowledge through practical projects and self-learning. My goal is to create innovative and functional web applications that meet the needs of users and contribute to business development.
@@ -31,8 +32,6 @@ As a Developer, I strive to constantly improve my skills and knowledge through p
 I am motivated to continuously develop as a programmer, which is why I keep up-to-date with the latest news and trends in programming.
 <br />
 <br />
-<!-- - 🌱 I’m currently learning **Node, MongoDB and React** -->
-<!-- - 🔥 My hobby is: **Creating games in Unity 3D** -->
 <!-- In my free time, I pursue my passion for creating computer games using the Unity 3D engine and C#. I approach every project as a challenge, which allows me to develop my programming and creative skills. The greatest satisfaction for me is creating games that provide players with an engaging and enjoyable gameplay experience. -->
 I focus on learning new concepts in programming, system design architecture, project structures, and best practices for writing clean, efficient code. Additionally, I work on private side projects in web development with React and Node, as well as mobile development with React Native.
 <br />
