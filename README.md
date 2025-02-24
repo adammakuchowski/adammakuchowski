@@ -37,7 +37,7 @@ I focus on learning new concepts in programming, system design architecture, pro
 <br />
 <br />
 <!-- In my free time, I am deeply interested in game development. I dedicate time to creating games and exploring the capabilities of the Godot engine. This allows me to experiment with building interactive and engaging experiences, further expanding my skill set. -->
-In my free time, I am deeply interested in infrastructure and processes related to DevOps. I dedicate time to exploring automation, CI/CD pipelines, cloud environments, and monitoring solutions. This allows me to experiment with improving deployment workflows and system reliability, further expanding my skill set.
+In my free time, I am deeply interested in system architecture and infrastructure. I dedicate time to exploring automation, CI/CD pipelines, cloud environments, and monitoring solutions. This allows me to experiment with designing scalable systems, improving deployment workflows, and enhancing system reliability, further expanding my skill set.
 <br />
 <br />
 In the future, I want to become a leader in my field and help others develop their skills. I am ready to take on new challenges and create projects that will benefit users and the companies I work for.
