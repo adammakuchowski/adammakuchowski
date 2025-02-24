@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **developing programming skills**
 
-- 💬 Ask me about **Web Dev, Mobile Dev, Game Dev**
+- 💬 Ask me about: **Web Dev, Mobile Dev, Game Dev**
 
 - ⚡ Fun fact: **There isn't a day when I don't think about code**
 
