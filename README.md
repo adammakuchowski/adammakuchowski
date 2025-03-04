@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <!-- <img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> -->
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/7a/c6/ff/7ac6ffb386acdb7de8e8e461f6ea9d80.jpg">
+<!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/7a/c6/ff/7ac6ffb386acdb7de8e8e461f6ea9d80.jpg"> -->
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/26/9d/ff/269dffa9e6a4865d09d629f4f1502351.jpg">
 
 - 🔭 I’m currently working as **Full-Stack Developer at CCC Tech**
 
@@ -23,6 +24,8 @@
 <!-- - 🔥 My hobby is: **Creating a mobile app in React Native** -->
 
 - 🔥 My hobby is: **Creating video games**
+
+&nbsp;
 
 <h3 align="left">About me:</h3>
 I work as a Full-Stack Developer. I am passionate about programming, primarily focused on creating high-quality software. I believe that understanding the principles of writing flexible, readable, and functional code is crucial, regardless of the technology or programming language used. I treat them as tools at a lower level, while the process of creating valuable software operates at a higher level. Implementation is an important step for me, but the ultimate goal is always to deliver solutions that meet users' needs and are well-designed.
