@@ -1,6 +1,9 @@
 <!-- ![MasterHead](https://leo-xee.github.io/46315e3e96837a2b48949e839c7dc27b/thumbNail.gif) -->
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Full-Stack Developer</h3>
+
+&nbsp;
+
 <!-- <img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> -->
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/7a/c6/ff/7ac6ffb386acdb7de8e8e461f6ea9d80.jpg"> -->
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/00/47/4f/00474f8145c4088cf26cb7a528e4efef.jpg">
@@ -24,6 +27,8 @@
 <!-- - 🔥 My hobby is: **Creating a mobile app in React Native** -->
 
 - 🔥 My hobby is: **Creating video games**
+
+&nbsp;
 
 <h3 align="left">About me:</h3>
 I work as a Full-Stack Developer. I am passionate about programming, primarily focused on creating high-quality software. I believe that understanding the principles of writing flexible, readable, and functional code is crucial, regardless of the technology or programming language used. I treat them as tools at a lower level, while the process of creating valuable software operates at a higher level. Implementation is an important step for me, but the ultimate goal is always to deliver solutions that meet users' needs and are well-designed.
