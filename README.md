@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Full-Stack Developer</h3>
 <!-- <img align="right" alt="Coding" width="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"> -->
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/7a/c6/ff/7ac6ffb386acdb7de8e8e461f6ea9d80.jpg">
-<!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/26/9d/ff/269dffa9e6a4865d09d629f4f1502351.jpg"> -->
+<!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/7a/c6/ff/7ac6ffb386acdb7de8e8e461f6ea9d80.jpg"> -->
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/00/47/4f/00474f8145c4088cf26cb7a528e4efef.jpg">
 
 - 🔭 I’m currently working as **Full-Stack Developer at CCC Tech**
 
