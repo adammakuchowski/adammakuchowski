@@ -31,23 +31,13 @@
 &nbsp;
 
 <h3 align="left">About me:</h3>
-I work as a Full-Stack Developer. I am passionate about programming, primarily focused on creating high-quality software. I believe that understanding the principles of writing flexible, readable, and functional code is crucial, regardless of the technology or programming language used. I treat them as tools at a lower level, while the process of creating valuable software operates at a higher level. Implementation is an important step for me, but the ultimate goal is always to deliver solutions that meet users' needs and are well-designed.
+Programming, to me, is not just about writing code or mastering the syntax of a specific language. It’s about solving problems, creating solutions, and designing systems that meet user needs. I believe that good programming goes beyond the code itself. It’s about understanding the underlying principles that make software flexible, readable, and functional. While technologies and programming languages are important, they are just tools. What truly matters is the ability to create well-designed software and build the right architecture that ensures scalability, reliability, and ease of maintenance.
 <br />
 <br />
-As a Developer, I strive to constantly improve my skills and knowledge through practical projects and self-learning. My goal is to create innovative and functional web applications that meet the needs of users and contribute to business development.
+In addition to coding and architecture, I am also deeply interested in infrastructure. I explore topics such as automation, CI/CD pipelines, cloud environments, and system monitoring. This enables me to design scalable systems, optimize deployment processes, and enhance application reliability, all while broadening my skills in DevOps.
 <br />
 <br />
-I am motivated to continuously develop as a programmer, which is why I keep up-to-date with the latest news and trends in programming.
-<br />
-<br />
-I focus on learning new concepts in programming, system design architecture, project structures, and best practices for writing clean, efficient code. Additionally, I work on private side projects in web development with React and Node, as well as mobile development with React Native.
-<br />
-<br />
-<!-- In my free time, I am deeply interested in game development. I dedicate time to creating games and exploring the capabilities of the Godot engine. This allows me to experiment with building interactive and engaging experiences, further expanding my skill set. -->
-In my free time, I am deeply interested in system architecture and infrastructure. I dedicate time to exploring automation, CI/CD pipelines, cloud environments, and monitoring solutions. This allows me to experiment with designing scalable systems, improving deployment workflows, and enhancing system reliability, further expanding my skill set.
-<br />
-<br />
-In the future, I want to become a leader in my field and help others develop their skills. I am ready to take on new challenges and create projects that will benefit users and the companies I work for.
+In my free time, as a hobby, I am passionate about game development. I dedicate time to exploring the capabilities of the Godot engine, which allows me to experiment with different ideas and expand my creativity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
