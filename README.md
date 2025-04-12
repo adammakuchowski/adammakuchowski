@@ -8,36 +8,34 @@
 <!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/7a/c6/ff/7ac6ffb386acdb7de8e8e461f6ea9d80.jpg"> -->
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/736x/00/47/4f/00474f8145c4088cf26cb7a528e4efef.jpg">
 
-- 🔭 I’m currently working as **Full-Stack Developer at CCC Tech**
+<h3 align="left">Some of my thoughts:</h3>
 
-- 📄 My experiences: **3+ year as a Full-Stack Developer**
+💻 **Programming is not about the programming language or technology itself, but about solving problems and finding efficient solutions**
 
-- 🚀 I'm interested in: **System architecture and infrastructure**
+🤔 **The most common answer to a question in programming is: "It depends". Every problem has various approaches and solutions, and context is key**
 
-<!-- - 🌱 My tech stack **React, React Native, Node and MongoDB** -->
+📈 **I value continuous learning and embrace the challenges that arise, seeing them as opportunities for growth and improvement**
 
-- 👯 I'm looking to collaborate with **people which love coding** 
+🔍 **If you want to use something like a design pattern, always make sure you know why you’re doing it, not just because it looks advanced or fancy**
 
-- 🤝 I’m looking for help with **developing programming skills**
-
-- 💬 Ask me about: **Web Dev, Mobile Dev, Game Dev**
-
-- ⚡ Fun fact: **There isn't a day when I don't think about code**
-
-<!-- - 🔥 My hobby is: **Creating a mobile app in React Native** -->
-
-- 🔥 My hobby is: **Creating video games**
+🧠 **Growth as a developer goes beyond just learning new technologies It’s about understanding the "why" behind every decision made, whether it’s choosing an architecture, design pattern, or coding technique**
 
 &nbsp;
 
-<h3 align="left">About me:</h3>
-Programming, to me, is not just about writing code or mastering the syntax of a specific language. It’s about solving problems, creating solutions, and designing systems that meet user needs. I believe that good programming goes beyond the code itself. It’s about understanding the underlying principles that make software flexible, readable, and functional. While technologies and programming languages are important, they are just tools. What truly matters is the ability to create well-designed software and build the right architecture that ensures scalability, reliability, and ease of maintenance.
+<h3 align="left">As I see it:</h3>
+I have been programming for several years, and my opinion on it is that programming is a field focused on problem-solving. It is not tied to a specific language or technology. Solving problems happens at a much higher level of abstraction than the code itself. Technologies, such as a programming language or framework, are just tools to implement your idea for solving a problem.
 <br />
 <br />
-In addition to coding and architecture, I am also deeply interested in infrastructure. I explore topics such as automation, CI/CD pipelines, cloud environments, and system monitoring. This enables me to design scalable systems, optimize deployment processes, and enhance application reliability, all while broadening my skills in DevOps.
+A key moment in my career as a programmer was when I accepted a state called "not knowing" and realized that the fear of this state is the biggest obstacle. No one can know all the answers or solve all problems in the most optimal way – such a way simply doesn’t exist. There will certainly be many paths that lead to solving a given problem, and most importantly, many of them can be correct.
 <br />
 <br />
-In my free time, as a hobby, I am passionate about game development. I dedicate time to exploring the capabilities of the Godot engine, which allows me to experiment with different ideas and expand my creativity.
+Programming, in my view, is a process of continuous learning, experimenting, and drawing conclusions from experience. When I face a problem I can't solve, instead of being afraid I won’t find a solution, I treat it as a valuable opportunity to grow. "By doing only things we already know, we never learn." I start by analyzing the problem, breaking it down into smaller parts, and systematically testing possible solutions. Every new problem whose solution goes beyond my current knowledge is the most valuable task.
+<br />
+<br />
+Growth as a programmer is not just about gaining knowledge of technologies, but mostly about learning to effectively solve problems and adapt to new challenges. The key to success is continuous improvement, but also accepting the fact that there will be problems we won't be able to solve, and instead of running from them, we need to face them.
+<br />
+<br />
+I’ve also learned that in programming, nothing is black-and-white, and the most common answer to a question is: "It depends." Every problem can have different approaches and solutions, and what’s crucial is understanding why we choose one solution over another. I often come across situations where someone chooses a design pattern just to show that they know something advanced. This is not the right way. What’s important is having full awareness of the decisions we make and understanding why we do something at a given moment, not just because it looks more "advanced". Understanding the reasons behind our choices is the foundation of effective problem-solving and growth as a programmer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
