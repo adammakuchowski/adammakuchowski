@@ -16,7 +16,7 @@
 
 📈 *I value continuous learning and embrace the challenges that arise, seeing them as opportunities for growth and improvement*
 
-🔍 *If you want to use something like a design pattern, always make sure you know why you’re doing it, not just because it looks advanced or fancy*
+🔍 *If you want to use some design pattern, always make sure you know why you’re doing it and that you know how to implement it correctly, not just because it looks advanced or fancy*
 
 🧠 *Growth as a developer goes beyond just learning new technologies It’s about understanding the "why" behind every decision made, whether it’s choosing an architecture, design pattern, or coding technique*
 
