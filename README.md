@@ -22,20 +22,8 @@
 
 &nbsp;
 
-<h3 align="left">As I see it:</h3>
-I have been programming for several years, and my opinion on it is that programming is a field focused on problem-solving. It is not tied to a specific language or technology. Solving problems happens at a much higher level of abstraction than the code itself. Technologies, such as a programming language or framework, are just tools to implement your idea for solving a problem.
-<br />
-<br />
-A key moment in my career as a programmer was when I accepted a state called "not knowing" and realized that the fear of this state is the biggest obstacle. No one can know all the answers or solve all problems in the most optimal way – such a way simply doesn’t exist. There will certainly be many paths that lead to solving a given problem, and most importantly, many of them can be correct.
-<br />
-<br />
-Programming, in my view, is a process of continuous learning, experimenting, and drawing conclusions from experience. When I face a problem I can't solve, instead of being afraid I won’t find a solution, I treat it as a valuable opportunity to grow. "By doing only things we already know, we never learn." I start by analyzing the problem, breaking it down into smaller parts, and systematically testing possible solutions. Every new problem whose solution goes beyond my current knowledge is the most valuable task.
-<br />
-<br />
-Growth as a programmer is not just about gaining knowledge of technologies, but mostly about learning to effectively solve problems and adapt to new challenges. The key to success is continuous improvement, but also accepting the fact that there will be problems we won't be able to solve, and instead of running from them, we need to face them.
-<br />
-<br />
-I’ve also learned that in programming, nothing is black-and-white, and the most common answer to a question is: "It depends." Every problem can have different approaches and solutions, and what’s crucial is understanding why we choose one solution over another. I often come across situations where someone chooses a design pattern just to show that they know something advanced. This is not the right way. What’s important is having full awareness of the decisions we make and understanding why we do something at a given moment, not just because it looks more "advanced". Understanding the reasons behind our choices is the foundation of effective problem-solving and growth as a programmer.
+<h3 align="left">About me:</h3>
+...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
