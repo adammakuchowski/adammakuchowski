@@ -10,15 +10,15 @@
 
 <h3 align="left">Some of my thoughts:</h3>
 
-💻 **Programming is not about the programming language or technology itself, but about solving problems and finding efficient solutions**
+💻 *Programming is not about the programming language or technology itself, but about solving problems and finding efficient solutions*
 
-🤔 **The most common answer to a question in programming is: "It depends". Every problem has various approaches and solutions, and context is key**
+🤔 *The most common answer to a question in programming is: "It depends". Every problem has various approaches and solutions, and context is key*
 
-📈 **I value continuous learning and embrace the challenges that arise, seeing them as opportunities for growth and improvement**
+📈 *I value continuous learning and embrace the challenges that arise, seeing them as opportunities for growth and improvement*
 
-🔍 **If you want to use something like a design pattern, always make sure you know why you’re doing it, not just because it looks advanced or fancy**
+🔍 *If you want to use something like a design pattern, always make sure you know why you’re doing it, not just because it looks advanced or fancy*
 
-🧠 **Growth as a developer goes beyond just learning new technologies It’s about understanding the "why" behind every decision made, whether it’s choosing an architecture, design pattern, or coding technique**
+🧠 *Growth as a developer goes beyond just learning new technologies It’s about understanding the "why" behind every decision made, whether it’s choosing an architecture, design pattern, or coding technique*
 
 &nbsp;
 
